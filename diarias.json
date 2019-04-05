@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Al azar",
+      "drop": "Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker Experience Cards (Random)"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Saber",
+      "drop": "Saber Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Lancer & Assassin",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Archer",
+      "drop": "Archer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Saber & Rider",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Lancer",
+      "drop": "Lancer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Archer & Caster",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Berserker",
+      "drop": "Berserker Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Lancer & Assassin",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Rider",
+      "drop": "Rider Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Saber & Rider",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Caster",
+      "drop": "Caster Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "¡Mision de farmeo! Tipo: Archer & Caster＞)",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "¡Mision de entrenamiento! Tipo: Assassin",
+      "drop": "Assassin Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "¡Mision de farmeo de QP! Tipo: Caster",
+      "drop": "QP"
+    }
+  ]
+]
